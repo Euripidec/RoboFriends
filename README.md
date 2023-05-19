@@ -14,12 +14,14 @@ Some of the standout feature of the project are
 
 #### Homepage :
 
-![Homepage](https://github.com/Euripidec/RoboFriends/assets/111103974/e6511dab-d8bc-4636-9d09-376ed4dff8ce)
+![Homepage](https://github.com/Euripidec/RoboFriends/assets/111103974/3e24e85e-8faf-4f97-9a68-5142b60e92e8)
+
 
 
 #### Search :
 
-![search](https://github.com/Euripidec/RoboFriends/assets/111103974/3044f0a0-3e22-4592-899b-f133d6d86213)
+![search](https://github.com/Euripidec/RoboFriends/assets/111103974/087edbe0-ae36-4639-b4ac-f15a8ea6fc66)
+
 
 
 
